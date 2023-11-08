@@ -1,0 +1,14 @@
+D:\Programming\Wizard\bin\Debug\net7.0\Wizard.exe
+D:\Programming\Wizard\bin\Debug\net7.0\Wizard.deps.json
+D:\Programming\Wizard\bin\Debug\net7.0\Wizard.runtimeconfig.json
+D:\Programming\Wizard\bin\Debug\net7.0\Wizard.dll
+D:\Programming\Wizard\bin\Debug\net7.0\Wizard.pdb
+D:\Programming\Wizard\obj\Debug\net7.0\Wizard.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Wizard\obj\Debug\net7.0\Wizard.AssemblyInfoInputs.cache
+D:\Programming\Wizard\obj\Debug\net7.0\Wizard.AssemblyInfo.cs
+D:\Programming\Wizard\obj\Debug\net7.0\Wizard.csproj.CoreCompileInputs.cache
+D:\Programming\Wizard\obj\Debug\net7.0\Wizard.dll
+D:\Programming\Wizard\obj\Debug\net7.0\refint\Wizard.dll
+D:\Programming\Wizard\obj\Debug\net7.0\Wizard.pdb
+D:\Programming\Wizard\obj\Debug\net7.0\Wizard.genruntimeconfig.cache
+D:\Programming\Wizard\obj\Debug\net7.0\ref\Wizard.dll
