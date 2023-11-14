@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\Wizard\\Wizard.csproj",
+      "projectUniqueName": "D:\\Programming\\Wizard\\Wizard.csproj",
       "projectName": "Wizard",
-      "projectPath": "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\Wizard\\Wizard.csproj",
+      "projectPath": "D:\\Programming\\Wizard\\Wizard.csproj",
       "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\Wizard\\obj\\",
+      "outputPath": "D:\\Programming\\Wizard\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config"
